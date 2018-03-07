@@ -1,5 +1,5 @@
 #Sandra Dögg Kristmundsdóttir
-#03.02.2018
+#01.02.2018
 import pygame, sys, time, random
 from pygame.locals import *
 
